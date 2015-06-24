@@ -1,0 +1,12 @@
+{
+  "name": "shanikawm/hello-world",
+  "description": "For testing purpose",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Shanika",
+      "email": "email@example.com"
+    }
+  ]
+}
