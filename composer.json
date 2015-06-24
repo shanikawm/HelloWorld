@@ -2,7 +2,7 @@
   "name": "shanikawm/hello-world",
   "description": "For testing purpose",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Shanika",
