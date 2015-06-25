@@ -4,6 +4,7 @@
   "keywords": ["hello","world"],
   "homepage": "http://github.com/shanikawm/HelloWorld",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Shanika",
